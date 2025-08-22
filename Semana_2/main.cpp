@@ -2,6 +2,7 @@
 
 using namespace std;
 int suma_de_enteros( int, int);
+
 int suma_de_enteros( int a, int b){
 return a+b;
 }
