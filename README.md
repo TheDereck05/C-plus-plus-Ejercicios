@@ -1,15 +1,22 @@
-# 2025-CĆOMP2-2
-# 20/08/2025 
-# Tralalero Tralala
-# Me dijo que me cambie a Eduacion Inicial, go o no go?
+# Ejercicios de C++
 
-#Tralalero Tralala
-#Me dijo que me cambie a Eduacion Inicial, go o no go?
+**Autor:** Edmundo  
+**Fecha de inicio:** 03/09/2025
 
-> [!IMPORTANT]
+---
+
+## Descripción
+Este repositorio contiene **todos mis ejercicios de programación en C++**.  
+Aquí iré subiendo ejercicios conforme avance en el curso y en la práctica personal.  
+**Todos los ejercicios son para uso público :D**
+
+---
+
+## Participantes
+> [!IMPORTANT]  
 > Giovanny estuvo acá :)
 
-
->[!IMPORTANT]
+> [!IMPORTANT]  
 > Edmundo estuvo acá :b
+
 
