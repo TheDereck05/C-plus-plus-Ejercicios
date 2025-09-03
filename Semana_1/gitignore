@@ -1,8 +1,0 @@
-//Ignorar los documentos con terminación cualesquiera se comienza con
-*.(cualquiera)
-*.o
-*.exe
-//Ignorar los archivos se usa "/" al final
-bin/
-obj/
-//Para que los ignore

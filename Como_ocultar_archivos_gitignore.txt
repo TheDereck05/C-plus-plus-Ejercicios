@@ -1,0 +1,22 @@
+# ========================================
+# Ignorar archivos por su extensión
+# ========================================
+# El asterisco (*) indica que ignorará cualquier archivo
+# que termine con la extensión indicada.
+# Ejemplos: archivo.o, main.o
+*.o
+
+# Ignora todos los ejecutables generados
+# Ejemplos: programa.exe, juego.exe
+*.exe
+
+
+# ========================================
+# Ignorar carpetas completas
+# ========================================
+# Si se usa "/" al final, se ignora todo el contenido
+# dentro de esa carpeta.
+# Ejemplos: bin/ contiene los binarios,
+#           obj/ contiene archivos objeto
+bin/
+obj/
